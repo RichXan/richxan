@@ -7,8 +7,8 @@
   <a href="https://github.com/RichXan?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/RichXan?color=green&logo=github&label=Followers&color=blue&style=for-the-badge">
   </a>
-    <a href="https://img.shields.io/github/license/RichXan/RichXan?style=for-the-badge">
-    <img alt="License" src="https://img.shields.io/github/license/RichXan/RichXan?style=for-the-badge">
+    <a href="https://github.com/RichXan/richxan">
+    <img alt="License" src="https://img.shields.io/github/license/richxan/richxan?style=for-the-badge&color=red">
   </a>
 </p>
 
@@ -21,7 +21,7 @@ A Software engineer passionate about Data Science :bar_chart:. I like automating
 -->
 - ⚡ **Fun fact:** I **strongly** believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
 - :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
-- 💬 Talk to me about Formula 1 :racing_car:, Memes, Anime, Movies 🎥, Genshin Impact 🎮, Amateur Photography 📸
+- 💬 Talk to me about Life, Valorant, Movies 🎥, Amateur Photography 📸
 
 
 
