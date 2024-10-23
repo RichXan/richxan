@@ -2,25 +2,25 @@
 
 <p align="left">
   <a href="https://github.com/RichXan">
-    <img src="https://komarev.com/ghpvc/?username=RichXan&label=Profile%20Visits&color=blue&style=for-the-badge" alt="page views">
+    <img src="https://komarev.com/ghpvc/?username=RichXan&label=Profile%20Visits&color=blue&style=badge" alt="page views">
   </a>
   <a href="https://github.com/RichXan?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/RichXan?color=green&logo=github&label=Followers&color=blue&style=for-the-badge">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/RichXan?color=green&logo=github&label=Followers&color=blue&style=badge">
   </a>
     <a href="https://github.com/RichXan/richxan">
-    <img alt="License" src="https://img.shields.io/github/license/richxan/richxan?style=for-the-badge&color=red">
+    <img alt="License" src="https://img.shields.io/github/license/richxan/richxan?style=badge&color=red">
   </a>
 </p>
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-A Software engineer passionate about Data Science :bar_chart:. I like automating, building scalable pipelines, improving and optimizing systems. I am a Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
 
-<!--
-- 🌱 I’m currently pursuing **Masters in Data Analytics Engineering at Northeastern University, Boston**
--->
+A software engineer passionate about artificial intelligence🤖. I am able to efficiently build stable, reliable, and scalable back-end systems. Whether I'm dealing with complex business logic or optimizing database performance, I'm able to handle it and support front-end applications. At the same time, I am also a digital pastoralist who actively embraces the advent of the era of artificial intelligence. I fully recognize the huge potential of AI technology and am good at using AI tools to improve my productivity and quality. By combining it with AI, I'm able to solve problems faster, develop innovative ideas, and bring more value to my projects. 
+
+<!-- A Software engineer passionate about Data Science :bar_chart:. I like automating, building scalable pipelines, improving and optimizing systems. I am a Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot:  -->
+
 - ⚡ **Fun fact:** I **strongly** believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
-- :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
+- :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Artificial Intelligence**
 - 💬 Talk to me about Life, Valorant, Movies 🎥, Amateur Photography 📸
 
 
@@ -87,7 +87,7 @@ Here are some ideas to get you started:
 
 
 ---
-<div align="center">
+<div align="left">
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 </div>
 <br>
