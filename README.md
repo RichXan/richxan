@@ -47,10 +47,10 @@ A software engineer passionate about artificial intelligence🤖. I am able to e
 <details>
 <summary><b>🔨 Languages and Tools</b></summary>
 <p align="center">
-	<img title="Golang" alt="Golang" src="https://cdn.simpleicons.org/go" width="40" height="40" style="vertical-align:down; margin:4px"/>
+    <img title="Golang" alt="Golang" src="https://cdn.simpleicons.org/go" width="40" height="40" style="vertical-align:down; margin:4px"/>
     <img title="Python" alt="Python" src="https://cdn.simpleicons.org/python" width="50" height="40" style="vertical-align:down; margin:4px"/>
     <img title="Git" alt="Git" src="https://cdn.simpleicons.org/git" width="40" height="40" style="vertical-align:down; margin:4px"/>
-    <img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="40" style="vertical-align:down; margin:4px"/>	
+    <img title="linux" alt="linux" src="https://cdn.simpleicons.org/linux" width="40" style="vertical-align:down; margin:4px"/>	
     <img title="ubuntu" alt="ubuntu" src="https://cdn.simpleicons.org/ubuntu" width="50" height="45" style="vertical-align:down; margin:4px"/>
     <img title="Docker" alt="Docker" src="https://cdn.simpleicons.org/docker" width="40" height="40" style="vertical-align:down; margin:4px"/>
     <img title="kubernetes" alt="kubernetes" src="https://cdn.simpleicons.org/kubernetes" width="40" height="40" style="vertical-align:down; margin:4px"/>
@@ -80,10 +80,11 @@ Here are some ideas to get you started:
 -->
 
 ### Feel free to contact me 😋
-<a href="https://raw.githubusercontent.com/richxan/richxan/master/assets/wechat-qr-code.png"><img src="assets/wechat.svg" alt="微信"></a>
 <a href="https://x.com/mmakemoremoney" target="_blank"><img src="https://img.shields.io/badge/%20-%40xan-%23000000?logo=x"></a>
+<a href=""><img src="https://img.shields.io/badge/微信-RichXan-green?logo=wechat)"></a>
+<a href="https://github.com/RichXan"><img src="https://img.shields.io/badge/GitHub-RichXan-blue?logo=github)"></a>
 <a href="mailto:rich4xan@gmail.com"><img src="https://img.shields.io/badge/Email-rich4xan%40gmail.com-orange"></a>
-<a href="https://github.com/RichXan" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-xanny.cloud-red"></a>
+<a href="https://richxan.github.io/xblog/" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-xanny.cloud-red"></a>
 
 
 ---
