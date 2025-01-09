@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 
 ### Feel free to contact me 😋
 <a href="https://x.com/mmakemoremoney" target="_blank"><img src="https://img.shields.io/badge/%20-%40xan-%23000000?logo=x"></a>
-<a href=""><img src="https://img.shields.io/badge/微信-RichXan-green?logo=wechat)"></a>
+<a href=""><img src="https://img.shields.io/badge/微信-xannygo-green?logo=wechat)"></a>
 <a href="https://github.com/RichXan"><img src="https://img.shields.io/badge/GitHub-RichXan-blue?logo=github)"></a>
 <a href="mailto:rich4xan@gmail.com"><img src="https://img.shields.io/badge/Email-rich4xan%40gmail.com-orange"></a>
 <a href="https://richxan.github.io/xblog/" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-xanny.cloud-red"></a>
